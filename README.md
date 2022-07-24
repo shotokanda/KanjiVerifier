@@ -16,7 +16,7 @@ TokuyuuTV explained in a video (https://www.youtube.com/watch?v=4CvoPRZsejc&list
 
 \* except for special kanji, normally explained with furigana 
 
-You can use this script on text files where you saved the text from e.g. a news article into. 
+You can use this script with text files where you saved the text from e.g. a news article into and verify this statistics on your own.
 
 
 ## Usage
