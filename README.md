@@ -13,7 +13,7 @@ TokuyuuTV explained in a video (https://www.youtube.com/watch?v=4CvoPRZsejc&list
 | N3    |  ~616 chars          | 86%           |
 | N2    |  ~986 chars          | 94%           |
 | N1    |  ~2226 chars         | 100%*         | 
-  * except for special kanji, normally explained with furigana 
+  \* except for special kanji, normally explained with furigana 
 
 You can use this script on text files where you saved the text from e.g. a news article into. 
 
