@@ -6,7 +6,7 @@ This script verifies how many kanji of a text you will understand according to y
 TokuyuuTV explained in a video (https://www.youtube.com/watch?v=4CvoPRZsejc&list=LL&index=3&t=235s) that you will understand the following percentages of kanji from e.g. a newspaper article according to your JLPT level:
 
 
-| level | number of characters | text coverage |
+| level | number of characters |  known/unknown ratio  |
 | ----- | -------------------- | ------------- |
 | N5    |  ~80 chars           | 36%           |
 | N4    |  ~246 chars          | 62%           |
