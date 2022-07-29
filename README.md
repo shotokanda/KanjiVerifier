@@ -24,5 +24,5 @@ You can use this script with text files where you saved the text from e.g. a new
 [^1]: Insert your e.g. article's text into a file. (test.txt includes an example)
 [^2]: Run the script by executing:
 ```
-python3 kanjiverifiert.py <NAME OF YOUR FILE>.txt
+python3 kanjiverifier.py <NAME OF YOUR FILE>.txt
 ```
